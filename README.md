@@ -21,7 +21,7 @@ jetson-nano-test/
 ├── src/                    # 소스 코드 디렉토리
 │   ├── main.py             # 메인 실행 파일 (학습 모델과 OpenCV 통합 코드)
 │   ├── camera_test.py      # 웹캠 초기화 및 테스트 코드
-│   ├── yolo_integration.py # csi 카메라 테스트 코드
+│   ├── csi_camera_test.py  # csi 카메라 테스트 코드
 
 
 
