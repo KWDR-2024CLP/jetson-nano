@@ -1,6 +1,6 @@
 # jetson-nano-test
-
-
+젯슨 나노 환경 테스트 read.me 입니당
+ 
 ## 주요 개발 내용
 1. **웹캠 초기화 및 테스트**
    - OpenCV를 사용하여 Jetson Nano에 연결된 웹캠 피드를  출력합니다.
@@ -27,13 +27,16 @@ jetson-nano-test/
 
 
 ## 젯슨 설정 방법
-<details><summary>   젯슨 나노 기본 설정에 필요한 사이트
+<details><summary> 👈  젯슨 나노 기본 설정 하는 법
 </summary>
-
-- `nvidia developer 사이트`         https://www.sdcard.org/downloads/formatter/ 
-- `SD카드 포맷 프로그램 사이트`   https://developer.nvidia.com/embedded/downloads
-- `SD카드 이미지 로더 프로그램 사이트`  https://www.balena.io/etcher/
-
+   
+### - 젯슨 나노 기본 셋팅 사이트 - 
+```plaintext
+- nvidia developer 사이트             https://www.sdcard.org/downloads/formatter/ 
+- SD카드 포맷 프로그램 사이트         https://developer.nvidia.com/embedded/downloads
+- SD카드 이미지 로더 프로그램 사이트  https://www.balena.io/etcher/
+```
+### 순서대로 잘 따라 오기
 ### 1. SD 카드 포멧 하기 
 ### 2. OS 다운로드 (nvidia developer 에서 다운)
 ## 3. OS 이미지 읽기 (SD 카드에 저장 하는 단계)
@@ -66,9 +69,13 @@ jetson-nano-test/
  - `mem=$((("${totalmem}" / 2 / "${NRDEVICES}") * 1024))` 부분 찾기
  - `mem=$((("${totalmem}" / 2 / "${NRDEVICES}") * 1024 * 2))` 변경
  - 재부팅 후 확인 후
-**이제 편하게 사용하기~** 
+**이제 편하게 사용하기~**
+
+
+-  [기본 세팅시 참고](#https://velog.io/@tilkoas35/Jetson-Nano-OS-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95!)    
+-  [swap 사이즈 변경](#https://t-shaped-person.tistory.com/20)    
+
 
 </details>
-
 
 ## 프로젝트 파일 구조
