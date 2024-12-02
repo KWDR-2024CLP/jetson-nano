@@ -72,8 +72,8 @@ jetson-nano-test/
 **이제 편하게 사용하기~**
 
 
--  [기본 세팅시 참고](#https://velog.io/@tilkoas35/Jetson-Nano-OS-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95!)    
--  [swap 사이즈 변경](#https://t-shaped-person.tistory.com/20)    
+ [기본 세팅시 참고](#[https://velog.io/@tilkoas35/Jetson-Nano-OS-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95!](https://velog.io/@tilkoas35/Jetson-Nano-OS-설치-및-초기-설정))    
+ [swap 사이즈 변경](#https://t-shaped-person.tistory.com/20)    
 
 
 </details>
