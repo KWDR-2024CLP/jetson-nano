@@ -78,4 +78,4 @@ jetson-nano-test/
 
 </details>
 
-## 프로젝트 파일 구조
+## 개발 일지
